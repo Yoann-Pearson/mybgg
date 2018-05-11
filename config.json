@@ -3,14 +3,14 @@
         "name": "mybgg"
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "stromboul",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME"
+        "app_id": "NJE4O9Y0OC",
+        "api_key_search_only": "6a5ca14cd28ff0aef7e6611bf4ee4a3f",
+        "index_name": "StromboulsGame"
     }
 }
